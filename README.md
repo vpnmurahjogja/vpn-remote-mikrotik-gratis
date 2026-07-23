@@ -16,3 +16,5 @@ Butuh solusi **vpn remote mikrotik** tanpa harus memiliki IP Public statis? Bot 
 1. Pastikan Anda memiliki aplikasi Telegram di HP atau PC Anda.
 2. Klik tautan berikut untuk membuka layanan: [VPN Remote MikroTik Bot] (https://t.me/vpnmurahjogja_bot)
 3. Ikuti instruksi otomatis di dalam menu bot untuk mulai membuat VPN Remote Mikrotik Gratis.
+
+Kunjungi website untuk layanan lainnya https://vpnmurahjogja.my.id/
